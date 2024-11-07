@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Images/dashboard.png</file>
+    <file>Images/log-out.png</file>
+    <file>Images/notification.png</file>
+    <file>Images/product.png</file>
+    <file>Images/purchasing.png</file>
+    <file>Images/SakuLogo.png</file>
+    <file>Images/sales report.png</file>
+    <file>Images/sales.png</file>
+    <file>Images/supplier.png</file>
+    <file>Images/user.png</file>
+    <file>Images/Welcome logo.png</file>
+  </qresource>
+</RCC>
